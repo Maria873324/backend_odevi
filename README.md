@@ -27,7 +27,7 @@ Bu adres tüm isteklerin **base URL** kısmıdır.
 README içinden görüntülemek için:
 
 ```
-![Test 1](tests/Screenshot 2025-12-12 104643.png)
+![Test 1](tests/Screenshot%2025-12-12%104643.png)
 ![Test 2](tests/Screenshot 2025-12-12 104734.png)
 ![Test 3](tests/Screenshot 2025-12-12 105231.png)
 ![Test 4](tests/Screenshot 2025-12-12 105400.png)
