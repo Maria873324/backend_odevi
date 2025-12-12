@@ -27,22 +27,14 @@ Bu adres tüm isteklerin **base URL** kısmıdır.
 README içinden görüntülemek için:
 
 ```
-![Test 1](tests/Screenshot%2025-12-12%104643.png)
-![Test 2](tests/Screenshot 2025-12-12 104734.png)
-![Test 3](tests/Screenshot 2025-12-12 105231.png)
-![Test 4](tests/Screenshot 2025-12-12 105400.png)
-![Test 5](tests/Screenshot 2025-12-12 105432.png)
-![Test 6](tests/Screenshot 2025-12-12 120144.png)
-![Test 7](tests/Screenshot 2025-12-12 105556.png)
-![Test 8](tests/Screenshot 2025-12-12 111700.png)
-![Test 9](tests/Screenshot 2025-12-12 111738.png)
-![Test 2](tests/Screenshot 2025-12-12 104734.png)
-![Test 3](tests/Screenshot 2025-12-12 105231.png)
-![Test 4](tests/Screenshot 2025-12-12 105400.png)
-![Test 5](tests/Screenshot 2025-12-12 105432.png)
-![Test 6](tests/Screenshot 2025-12-12 120144.png)
-![Test 7](tests/Screenshot 2025-12-12 105556.png)
-![Test 8](tests/Screenshot 2025-12-12 111700.png)
-![Test 9](tests/Screenshot 2025-12-12 111738.png)
+![Test 1](tests/test1.png)
+![Test 2](tests/test2.png)
+![Test 3](tests/test3.png)
+![Test 4](tests/test4.png)
+![Test 5](tests/test5.png)
+![Test 6](tests/test6.png)
+![Test 7](tests/test7.png)
+![Test 8](tests/test8.png)
+![Test 9](tests/test9.png)
 ```
 
