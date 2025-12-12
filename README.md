@@ -31,7 +31,7 @@ README içinden görüntülemek için:
 
 - [Test 1](./backend_odevi/tests/test1.png)
 
-- [Test 2](./tests/test2.png)
+- [Test 2](../tests/test2.png)
 - [Test 3](./tests/test3.png)
 - [Test 4](./tests/test4.png)
 - [Test 5](./tests/test5.png)
