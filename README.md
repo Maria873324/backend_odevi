@@ -24,10 +24,6 @@ Bu adres tüm isteklerin **base URL** kısmıdır.
 
 ## 🖼️ **tests/ Klasöründeki Görsellerin Gösterimi**
 
-README içinden görüntülemek için:
-
-# Test Dosyaları
-
 - ![Test 1](./tests/test1.png)
 - ![Test 2](./tests/test2.png)
 - ![Test 3](./tests/test3.png)
