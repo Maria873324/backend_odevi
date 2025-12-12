@@ -86,7 +86,7 @@ const updateComment = async function (req, res) {
 const deleteComment = async function (req, res) {
    // createResponse(res, 200, { status: "başarılı" });
      try{
-        await Venue.findByIdAndDelete(req.params.venueid)
+        await Venue.findById(req.params.venueid)
         .select("comments")
         .exec()
         .then(function(venue){
@@ -96,7 +96,7 @@ const deleteComment = async function (req, res) {
                 venue.save().then(function(){
                     updateRating(venue._id,true);
                     createResponse(res, "200",
-                { status: venue.author+ "isimli kisinin yorumu silindi" });
+                { status: comment.author+ "isimli kisinin yorumu silindi" });
                 }); 
     }catch(error){
         createResponse(res, "400", error);
